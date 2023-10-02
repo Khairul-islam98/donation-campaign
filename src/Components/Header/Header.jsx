@@ -1,6 +1,5 @@
 import { Link, NavLink } from "react-router-dom";
 import logo from "../../assets/images/Logo.png";
-// import '../Header/Header.css'
 import { AiOutlineBars } from "react-icons/ai";
 import { useState } from "react";
 
