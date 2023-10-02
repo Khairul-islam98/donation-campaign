@@ -13,7 +13,7 @@ const Home = () => {
   const handleSearch = (e) => {
     e.preventDefault();
     const searchValue = e.target.search.value;
-    const userSearch = donations.filter((item) => searchValue == item.category);
+    const userSearch = donations.filter((item) => searchValue.toLowerCase() == item.category.toLowerCase());
     setDisplayData(userSearch);
   };
   

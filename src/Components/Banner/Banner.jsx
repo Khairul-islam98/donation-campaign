@@ -5,12 +5,12 @@ const Banner = ({handleSearch}) => {
         <div className="absolute w-full h-full bg-[rgba(225,226,226,0.76)] -z-40"></div>
           <div className="space-y-5">
             <div>
-              <h2 className="text-center text-3xl text-black font-semibold">I Grow By Helping People In Need</h2>
+              <h2 className="text-center text-4xl text-black font-bold">I Grow By Helping People In Need</h2>
             </div>
             <div className="text-center">
               <form onSubmit={handleSearch}>
-                <input className="py-1 pl-2 ring-1 outline-none" type="text" name="search" placeholder="Search here..." />
-                <button className="bg-rose-500 px-4 py-1 rounded-r-md text-white">Search</button>
+                <input className="py-1 input input-bordered w-1/2 pl-2 ring-1 outline-none" type="text" name="search" placeholder="Search here..." />
+                <button className="bg-[#FF444A] px-4 py-1 rounded-r-md text-white">Search</button>
               </form>
             </div>
           </div>
