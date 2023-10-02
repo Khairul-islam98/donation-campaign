@@ -1,0 +1,136 @@
+{
+  "donations": [
+    {
+      "id": 1,
+      "images": "https://i.ibb.co/tB8yH82/Rectangle-4284.png",
+      "title": "Clean Water for Children",
+      "category": "Health",
+      "category_bg": "#aec8ff",
+      "card_bg": "#0052FF26",
+      "text_button": "#001bff",
+      "description": "Clean water for children is a critical initiative aimed at ensuring that children around the world have access to safe and clean drinking water. This effort focuses on providing clean water sources, improving sanitation, and promoting hygiene practices to enhance the overall well-being and health of children, particularly in developing and impoverished regions. Here is a description of the key aspects of the initiative:",
+      "price": 290
+    },
+    {
+      "id": 2,
+      "images": "https://i.ibb.co/kMTJL5X/Rectangle-4288.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#fec3c5",
+      "card_bg": "#FF444A26",
+      "text_button": "#FF444A",
+      "description": "Good Education refers to a high-quality and effective educational experience that equips individuals with the knowledge, skills, values, and competencies necessary to lead successful and fulfilling lives. A good education goes beyond mere instruction; it encompasses a holistic approach to learning and personal development. Here are some key attributes and components of good education",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "images": "https://i.ibb.co/Lrv6bRf/Rectangle-4287.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#d4ecc1",
+      "card_bg": "#79C23F26",
+      "text_button": "#90cd60",
+      "description": "A used clothing drive is a charitable initiative or event where individuals, organizations, or communities collect and donate secondhand clothing items to benefit those in need. This type of drive can have various objectives and benefits, including supporting disadvantaged individuals or families, promoting sustainability through clothing recycling, and raising awareness about the importance of helping others. Here's an overview of a typical used clothing drive",
+      "price": 350
+    },
+    {
+      "id": 4,
+      "images": "https://i.ibb.co/T2BKsPS/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#fdd2c4",
+      "card_bg": "#F8714726",
+      "text_button": "#F87147",
+      "description": "The concept of Better Food for Everyone encompasses a holistic approach to food production, distribution, and consumption that aims to improve the quality, accessibility, and sustainability of food systems for the benefit of all individuals and communities. This approach emphasizes several key principles and goals:",
+      "price": 200
+    },
+    {
+      "id": 5,
+      "images": "https://i.ibb.co/T2BKsPS/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#fdd2c4",
+      "card_bg": "#F8714726",
+      "text_button": "#F87147",
+      "description": "The concept of Better Food for Everyone encompasses a holistic approach to food production, distribution, and consumption that aims to improve the quality, accessibility, and sustainability of food systems for the benefit of all individuals and communities. This approach emphasizes several key principles and goals:",
+      "price": 200
+    },
+    {
+      "id": 6,
+      "images": "https://i.ibb.co/Lrv6bRf/Rectangle-4287.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#d4ecc1",
+      "card_bg": "#79C23F26",
+      "text_button": "#90cd60",
+      "description": "A used clothing drive is a charitable initiative or event where individuals, organizations, or communities collect and donate secondhand clothing items to benefit those in need. This type of drive can have various objectives and benefits, including supporting disadvantaged individuals or families, promoting sustainability through clothing recycling, and raising awareness about the importance of helping others. Here's an overview of a typical used clothing drive",
+      "price": 350
+    },
+    {
+      "id": 7,
+      "images": "https://i.ibb.co/kMTJL5X/Rectangle-4288.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#fec3c5",
+      "card_bg": "#FF444A26",
+      "text_button": "#FF444A",
+      "description": "Good Education refers to a high-quality and effective educational experience that equips individuals with the knowledge, skills, values, and competencies necessary to lead successful and fulfilling lives. A good education goes beyond mere instruction; it encompasses a holistic approach to learning and personal development. Here are some key attributes and components of good education",
+      "price": 250
+    },
+    {
+      "id": 8,
+      "images": "https://i.ibb.co/tB8yH82/Rectangle-4284.png",
+      "title": "Clean Water for Children",
+      "category": "Health",
+      "category_bg": "#aec8ff",
+      "card_bg": "#0052FF26",
+      "text_button": "#0052FF",
+      "description": "Clean water for children is a critical initiative aimed at ensuring that children around the world have access to safe and clean drinking water. This effort focuses on providing clean water sources, improving sanitation, and promoting hygiene practices to enhance the overall well-being and health of children, particularly in developing and impoverished regions. Here is a description of the key aspects of the initiative:",
+      "price": 290
+    },
+    {
+      "id": 9,
+      "images": "https://i.ibb.co/tB8yH82/Rectangle-4284.png",
+      "title": "Clean Water for Children",
+      "category": "Health",
+      "category_bg": "#aec8ff",
+      "card_bg": "#0052FF26",
+      "text_button": "#0052FF",
+      "description": "Clean water for children is a critical initiative aimed at ensuring that children around the world have access to safe and clean drinking water. This effort focuses on providing clean water sources, improving sanitation, and promoting hygiene practices to enhance the overall well-being and health of children, particularly in developing and impoverished regions. Here is a description of the key aspects of the initiative:",
+      "price": 290
+    },
+    {
+      "id": 10,
+      "images": "https://i.ibb.co/kMTJL5X/Rectangle-4288.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#fec3c5",
+      "card_bg": "#FF444A26",
+      "text_button": "#FF444A",
+      "description": "Good Education refers to a high-quality and effective educational experience that equips individuals with the knowledge, skills, values, and competencies necessary to lead successful and fulfilling lives. A good education goes beyond mere instruction; it encompasses a holistic approach to learning and personal development. Here are some key attributes and components of good education",
+      "price": 250
+    },
+    {
+      "id": 11,
+      "images": "https://i.ibb.co/Lrv6bRf/Rectangle-4287.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#d4ecc1",
+      "card_bg": "#79C23F26",
+      "text_button": "#79C23F",
+      "description": "A used clothing drive is a charitable initiative or event where individuals, organizations, or communities collect and donate secondhand clothing items to benefit those in need. This type of drive can have various objectives and benefits, including supporting disadvantaged individuals or families, promoting sustainability through clothing recycling, and raising awareness about the importance of helping others. Here's an overview of a typical used clothing drive",
+      "price": 350
+    },
+    {
+      "id": 12,
+      "images": "https://i.ibb.co/T2BKsPS/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#fdd2c4",
+      "card_bg": "#F8714726",
+      "text_button": "#F87147",
+      "description": "The concept of Better Food for Everyone encompasses a holistic approach to food production, distribution, and consumption that aims to improve the quality, accessibility, and sustainability of food systems for the benefit of all individuals and communities. This approach emphasizes several key principles and goals:",
+      "price": 200
+    }
+  ]
+}
