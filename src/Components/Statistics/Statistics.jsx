@@ -45,7 +45,7 @@ const Statistics = () => {
         <title>Statistics</title>
       </Helmet>
       <div className='flex justify-center items-center mt-40 mb-10'>
-        <PieChart width={400} height={400}>
+        <PieChart width={300} height={400}>
           <Pie
             data={data}
             cx="50%"
