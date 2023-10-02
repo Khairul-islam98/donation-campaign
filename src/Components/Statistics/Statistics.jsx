@@ -1,6 +1,4 @@
 import { useEffect, useState } from "react";
-// import { Chart } from "react-google-charts";
-
 import { useLoaderData } from "react-router-dom";
 import { getDonations } from "../Utilities/localStorage";
 import { Cell, Pie, PieChart } from "recharts";
@@ -21,7 +19,6 @@ const Statistics = () => {
   const unselectedPercentage = 100 - selectedPercentage;
 
   const data = [
-    // ['donated', 'donations total'],
     { name: 'Selected Items', value: selectedPercentage },
     { name: 'Unselected Items', value: unselectedPercentage },
   ];
