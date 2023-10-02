@@ -32,9 +32,15 @@ const Donation = () => {
       <section className="mt-28 py-10">
         <div className="container mx-auto px-5">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {donate.slice(0, `${card}`).map((item) => (
-              <Donate key={item.id} donate={item} />
-            ))}
+          {donate.length === 0 ? (
+              <h2 className="col-span-4 text-2xl font-bold py-44 text-center">
+                No Data Found! 
+              </h2>
+            ) : (
+              donate.slice(0, `${card}`).map((item) => (
+                <Donate key={item.id} donate={item} />
+              ))
+            )}
           </div>
           <div className="text-center mt-6">
             <button onClick={handleDonate}
