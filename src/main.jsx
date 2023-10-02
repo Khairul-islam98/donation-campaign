@@ -8,7 +8,7 @@ import DonationDetails from "./Components/DonationDetails/DonationDetails";
 import Donation from "./Components/Donation/Donation";
 import Statistics from "./Components/Statistics/Statistics";
 import ErrorPage from "./Components/ErrorPage/ErrorPage";
-import { Helmet, HelmetProvider } from "react-helmet-async";
+import { HelmetProvider } from "react-helmet-async";
 
 const router = createBrowserRouter([
   {

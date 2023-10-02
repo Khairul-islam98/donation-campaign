@@ -16,12 +16,12 @@ const Home = () => {
     const userSearch = donations.filter((item) => searchValue.toLowerCase() == item.category.toLowerCase());
     setDisplayData(userSearch);
   };
-  
+
   return (
     <>
-    <Helmet>
-      <title>Donation Campaign </title>
-    </Helmet>
+      <Helmet>
+        <title>Donation Campaign </title>
+      </Helmet>
       <section
         style={{ backgroundImage: `url(${bannerImg})` }}
         className="z-20 relative w-full min-h-[600px] bg-center py-24 bg-cover flex flex-col justify-center items-center"

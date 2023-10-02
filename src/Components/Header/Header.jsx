@@ -7,10 +7,10 @@ import { useState } from "react";
 const Header = () => {
   const [btnClicked, setBtnClicked] = useState(false);
 
-  const handleNav = ()=> {
+  const handleNav = () => {
     setBtnClicked(!btnClicked)
   }
-  
+
   return (
     <>
       <nav className="absolute top-0 z-50 w-full h-28">
@@ -27,7 +27,7 @@ const Header = () => {
                   <AiOutlineBars />
                 </p>
               </div>
-              <div className={`${btnClicked?'flex':'hidden'} 
+              <div className={`${btnClicked ? 'flex' : 'hidden'} 
               absolute md:static bg-slate-400 md:bg-transparent md:gap-6 w-[80%] right-0 top-8
                px-3 py-2 flex-col md:flex-row md:flex md:justify-end md:w-full`}>
                 <NavLink to={'/'}>Home</NavLink>
